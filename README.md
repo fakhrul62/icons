@@ -1,5 +1,8 @@
 ```html
-have to use this one with any links: <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/fontawesome.css">
+have to use this one with any of the bottom link:
+<link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/fontawesome.css">
+
+
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.min.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/duotone.css">
@@ -29,8 +32,10 @@ have to use this one with any links: <link rel="stylesheet" href="https://fakhru
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/v5-font-face.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/v5-font-face.min.css">
 
-```markdown
-```html
+
+have to use this one with any of the bottom link:
+<script src="https://fakhrul62.github.io/icons/js/fontawesome.js"></script>
+
 <script src="https://fakhrul62.github.io/icons/js/all.js"></script>
 <script src="https://fakhrul62.github.io/icons/js/all.min.js"></script>
 <script src="https://fakhrul62.github.io/icons/js/brands.js"></script>
