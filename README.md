@@ -1,4 +1,5 @@
 ```html
+have to use this one with any links: <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/fontawesome.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.min.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/duotone.css">
