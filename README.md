@@ -63,5 +63,31 @@ in the head:
 at the bottom:
 <script src="https://fakhrul62.github.io/icons/js/fontawesome.js"></script>
 ( Use this one all the time and use only one link from the below. Sometime multiple link doesn't work )
+<script src="https://fakhrul62.github.io/icons/js/all.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/all.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/brands.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/brands.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/conflict-detection.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/conflict-detection.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/duotone.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/duotone.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/light.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/light.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/regular.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/regular.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-light.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-light.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-regular.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-regular.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-solid.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-solid.min.js"></script>
 <script src="https://fakhrul62.github.io/icons/js/sharp-thin.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/sharp-thin.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/solid.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/solid.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/thin.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/thin.min.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/v4-shims.js"></script>
+<script src="https://fakhrul62.github.io/icons/js/v4-shims.min.js"></script>
+
 
