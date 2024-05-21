@@ -3,7 +3,7 @@ in the head:
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/fontawesome.css">       
 ( Use this one all the time and use only one link from the below. Sometime multiple link doesn't work )
 
-<link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.css">
+(<link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.css">)
 
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.min.css">
 
