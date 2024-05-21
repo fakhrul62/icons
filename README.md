@@ -1,13 +1,18 @@
 in the head:
-[
+
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/fontawesome.css">       
 ( Use this one all the time and use only one link from the below. Sometime multiple link doesn't work )
-
+use only one link at a time
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.css">
+use only one link at a time
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/brands.min.css">
+use only one link at a time
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/duotone.css">
+use only one link at a time
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/duotone.min.css">
+use only one link at a time
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/light.css">
+use only one link at a time
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/light.min.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/regular.css">
 <link rel="stylesheet" href="https://fakhrul62.github.io/icons/css/regular.min.css">
@@ -38,4 +43,3 @@ at the bottom:
 ( Use this one all the time and use only one link from the below. Sometime multiple link doesn't work )
 <script src="https://fakhrul62.github.io/icons/js/sharp-thin.js"></script>
 
-]
